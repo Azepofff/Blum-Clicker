@@ -1,2 +1,2 @@
-# Blum-Clicker. 
+# Blum-Clicker
 
